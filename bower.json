@@ -1,10 +1,11 @@
 {
-  "name": "angular-notification",
+  "name": "angular-notification-therounds",
   "main": "angular-notification.js",
   "version": "1.1.1",
-  "homepage": "https://github.com/neoziro/angular-notification",
+  "homepage": "https://github.com/therounds/angular-notification",
   "authors": [
-    "Greg Bergé <neoziro@gmail.com>"
+    "Greg Bergé <neoziro@gmail.com>",
+	"Jeremy Wheaton <jeremy@therounds.com>"
   ],
   "description": "Notification service for Angular using native HTML5 API.",
   "keywords": [
@@ -24,10 +25,10 @@
     "examples"
   ],
   "dependencies": {
-    "angular": "~1.4.0"
+    "angular": "~1.5.0"
   },
   "devDependencies": {
-    "angular-mocks": "~1.4.0",
+    "angular-mocks": "~1.5.0",
     "sinon-1.15.0": "http://sinonjs.org/releases/sinon-1.15.0.js",
     "sinon-chai": "~2.8.0"
   }
