@@ -1,7 +1,7 @@
 {
   "name": "angular-notification-therounds",
   "main": "angular-notification.js",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "homepage": "https://github.com/therounds/angular-notification",
   "authors": [
     "Greg Bergé <neoziro@gmail.com>",
